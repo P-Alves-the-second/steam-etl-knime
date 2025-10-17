@@ -1,0 +1,16 @@
+# Arquivos sensíveis
+.env
+*.env
+*.log
+*.key
+*.bak
+*.zip
+*.7z
+
+# Dados temporários
+data/raw/*
+data/tmp/*
+
+# KNIME cache e configs
+.metadata/
+.knime-lock
