@@ -35,7 +35,7 @@ O sistema também inclui um **módulo de logs** e suporte a **envio automático 
 ---
 
 ## 🧱 Estrutura do Projeto
-
+```
 knime-workspace/
 │
 ├── resources/                  # (fora do repositório Git!)
@@ -48,7 +48,7 @@ knime-workspace/
     ├── README.md               # Este ficheiro
     ├── .gitignore
     └── (outros ficheiros KNIME)
-
+```
 
 ---
 
