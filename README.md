@@ -58,15 +58,16 @@ Crie a pasta `resources` dentro do diretório knime-workspace (acima do projeto)
 
 ### 🔑 `apikey.txt`
 Contém apenas a **Steam API Key** em texto simples:
-
+```
 12123ASDASDASFDAF112
-
+```
 
 ### 👥 `steam_users.txt`
 Contém os **SteamIDs** e os **emails** dos utilizadores a serem processados:
-
+```
 76561324213123122,abc@gmail.com
 76346232421334252,dfg@gmail.com
+```
 
 
 ---
